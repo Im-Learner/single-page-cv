@@ -4,7 +4,7 @@ A single-page CV built with HTML as part of the roadmap.sh frontend projects.
 
 ## Live Demo
 
-Will be added after GitHub Pages deployment.
+[Will be added after GitHub Pages deployment.](https://im-learner.github.io/single-page-cv/)
 
 ## Project URL
 
